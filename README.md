@@ -2,7 +2,7 @@
 
 ## Demo
 #### iPhone Demo
-![iPhone demo](Documentation/iPhone-demo.gif)
+<img src="Documentation/iPhone-demo.gif" alt="iPhone Demo" height="60">
 #### Mac OS demo
 ![MacOS demo](Documentation/MacOS-demo.gif)
 
