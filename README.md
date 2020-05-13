@@ -1,11 +1,5 @@
 # H4XOR News (Hacker News)
 
-## Demo
-#### iPhone Demo
-<img src="Documentation/iPhone-demo.gif" alt="iPhone Demo" height="60">
-#### Mac OS demo
-![MacOS demo](Documentation/MacOS-demo.gif)
-
 ## Goal
 
 The objective of this tutorial is to continue practice with Apple's new SwiftUI and gain more practice working with APIs.
@@ -13,6 +7,14 @@ The objective of this tutorial is to continue practice with Apple's new SwiftUI 
 ## What I created
 
 An app that takes the top scoring articles from Hacker News and displays them on iPhone and iMac. Clicking an article headline will segue into an online viewer of the article.
+
+## Demo
+
+#### iPhone Demo
+<img src="Documentation/iPhone-demo.gif" alt="iPhone Demo" height="500">
+
+#### Mac OS demo
+<img src="Documentation/MacOS-demo.gif" alt="MacOS Demo">
 
 ## What I learned
 
