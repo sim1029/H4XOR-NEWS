@@ -1,11 +1,10 @@
 # H4XOR News (Hacker News)
 
 ## Demo
-####iPhone Demo
-![iPhone demo](Documentation/iPhone demo.gif)
-
-####MacOS Demo
-![MacOS demo](Documentation/MacOS demo.gif)
+#### iPhone Demo
+![iPhone demo](Documentation/iPhone-demo.gif)
+#### Mac OS demo
+![MacOS demo](Documentation/MacOS-demo.gif)
 
 ## Goal
 
